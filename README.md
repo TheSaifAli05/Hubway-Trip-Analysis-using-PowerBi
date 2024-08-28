@@ -394,6 +394,10 @@ Although the above table output is okay to understand the top 5 source-destinati
 
 ![](Figs/unnamed-chunk-27-1.png) ![](Figs/unnamed-chunk-27-2.png) ![](Figs/unnamed-chunk-27-3.png) ![](Figs/unnamed-chunk-27-4.png) ![](Figs/unnamed-chunk-27-5.png) ![](Figs/unnamed-chunk-27-6.png) 
 
+# PowerBi Implementation
+
+By using PowerBi I can showcase the data analysis in a dynamic and understantable way. It is designed in such a way that the viewer can interact with it to see results various different scenarios with ease. The PoweBi presentatin is present in the repositry to view.
+
 # Final Plots and Summary
 
 In this section, I will discuss the three main takeaways from this data exploration.
