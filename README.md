@@ -1,6 +1,6 @@
 # Hubway Trip Data
-Prasun Srivastava  
-27 March 2016  
+Saif Ali
+28 August 2024  
 
 The dataset for this analysis has been obtained from the [Hubway data Challenge.](http://hubwaydatachallenge.org/) The dataset contains the trip data for each bike ride from July 2011 to end of 2013. I will start with a few leading questions to guide my exploration:
 
